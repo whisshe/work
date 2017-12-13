@@ -1,7 +1,5 @@
-### api-A（CDN机器）
-- 域名
-        
         re.pkgame.net
+	dasmdlml;
 - 主目录
 dasdasdasda
 - 主页招商页面 re.pkgame.net/index.html
