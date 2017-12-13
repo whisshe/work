@@ -13,8 +13,7 @@
       /data/res-s/sdmjr   目前正式环境使用
       /data/res-s/sdmj    目前测试环境使用
 - 转盘
-      
-      /data/res-s/zhuanpan
+asdasdas      
 - 抽奖切图
 
       /data/res-s/抽奖切图
@@ -26,4 +25,4 @@
       /data/res-s/nmw
 - 跑得快
 
-      /data/res-s/pdk
+aaaaaaaaaaaaaaa
