@@ -3,14 +3,13 @@
         
         re.pkgame.net
 - 主目录
-
-      /data/res-s/
+dasdasdasda
 - 主页招商页面 re.pkgame.net/index.html
       
        /data/res-s/images/   图片资源
 - 邵东麻将
 
-      /data/res-s/sdmjr   目前正式环境使用
+      dlsmad
       /data/res-s/sdmj    目前测试环境使用
 - 转盘
 asdasdas      
